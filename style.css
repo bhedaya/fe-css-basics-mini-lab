@@ -1,12 +1,37 @@
+#firstparagraph {
+  background-color: blue;
+  color: white;
+}
+#secondparagraph { 
+   font-family:cursive;
+}
+#one:hover{
+  background-color: red
+}
+#three:hover {
+  background-image: url(http://vignette3.wikia.nocookie.net/hmwikia/images/2/21/Chicken_harvest_moon.jpg/revision/latest/scale-to-width-down/200?cb=20160114034236);
+  background-size: cover;
+}
+.evennumbers {
+  color:#891464;
+}
+#sixthparagraph:hover { 
+  color: orange;
+}
 
+body {
+  background-image: url("http://assets.libertyellisfoundation.org/cms/editor/pedestal.jpg");
+}
+#fourthparagraph { float: right;
+}
 .box {
   width: 100px;
   height: 100px;
-  display: inline-block;
+  dsplay: inline-block;
 }
 
 #one {
-  background-color: red;
+  background-color: blue;
 }
 
 #two {
